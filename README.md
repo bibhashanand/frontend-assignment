@@ -16,7 +16,7 @@ CSS3: Styling and layout.
 JavaScript (ES6+): Interactive features and API integration.
 
 ### How to Run the Project Locally
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/bibhashanand/frontend-assignment.git
 
 Open index.html in your preferred web browser.
 
