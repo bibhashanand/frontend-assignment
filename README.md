@@ -20,4 +20,4 @@ Clone the repository: git clone https://github.com/bibhashanand/frontend-assignm
 
 Open index.html in your preferred web browser.
 
-### Demo - 
+### Demo - https://test.bibhashanand.com/
